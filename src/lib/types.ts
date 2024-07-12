@@ -1,0 +1,1 @@
+export type Symbols = "TCS" | "INFY" | "RELIANCE" | "HDFCBANK" | "ITC"
